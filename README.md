@@ -28,18 +28,6 @@ Real-time traffic pipeline for New York. Pulls TomTom API data, enriches 1.8M Op
 
 Python, H3, OpenStreetMap, streaming and batch
 
-### medical-voice-tester
-
-Test harness for voice prompts. Scripted scenarios, saved transcripts and recordings, a prompt iteration log and a bug report, so a change to a prompt can be measured instead of guessed at.
-
-Python, prompt evaluation
-
-### smart-help-desk-frontend
-
-The front end for the help desk, deployed on Vercel.
-
-HTML, Vercel
-
 ## Contact
 
 Vancouver, BC
