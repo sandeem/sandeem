@@ -42,7 +42,7 @@ HTML, Vercel
 
 ## Contact
 
-Vancouver, BC
+USA/Canada
 
 sandeepmanoharan1@gmail.com
 
